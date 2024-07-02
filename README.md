@@ -26,7 +26,7 @@ Welcome to my GitHub repository! I'm a passionate software developer and a compu
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
 - **Interest:** ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white) Data Structures and Algorithms, Competitive Programming ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white) ![GFG](https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=flat-square&logo=geeksforgeeks&logoColor=white)
 - **Exposures:** ![Android Development](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
-- **Problem-Solving:** LeetCode, GeeksforGeeks
+- **Problem-Solving:** ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white) ![GFG](https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=flat-square&logo=geeksforgeeks&logoColor=white)
 
 ## 🛠️ Projects
 
