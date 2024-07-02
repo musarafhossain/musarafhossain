@@ -44,7 +44,7 @@ I am thrilled to share my recent project—a fully functional Quiz Application b
 - Created a comprehensive Logic Circuit Visualizer using HTML, CSS, and JavaScript.
 - Implemented diverse logic gates and circuits showcasing proficiency in web development and logical design.
 - [Source Code](https://github.com/musarafhossain/LogicCircuitVisualizer.git)
-- [Testing Link](https://musarafhossain.github.io/LogicCircuitVisualizer/)
+- [Live Demo](https://musarafhossain.github.io/LogicCircuitVisualizer/)
 
 ## 🎓 Certifications
 
