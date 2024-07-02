@@ -25,12 +25,9 @@ Welcome to my GitHub repository! I'm a passionate software developer and a compu
 ### Quiz Application Project
 I am thrilled to share my recent project—a fully functional Quiz Application built using HTML, CSS, JavaScript, Python, and SQL.
 
-## Key Features
 - **Developed a comprehensive Quiz Application** using HTML, CSS, JavaScript, Python, and SQL, featuring secure user authentication (login, signup, forgot password, OTP verification), and customizable quizzes across multiple topics (Math, Science, History, Computer Science) with dynamic API-sourced questions.
 - **Created a user dashboard with interactive graphs** for progress visualization and detailed history of past quizzes, integrating backend processing and data management using Python and SQL.
 - **Implemented extensive testing and user session management** (secure logout) to ensure application reliability and performance.
-
-## Links
 - **Project Code**: [GitHub Repository](https://github.com/musarafhossain/QuizApp)
 - **Live Testing**: [Live Demo](https://musarafhossain.pythonanywhere.com/)
 
