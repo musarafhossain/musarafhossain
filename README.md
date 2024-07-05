@@ -37,7 +37,7 @@ I am thrilled to share my recent project—a fully functional Quiz Application b
 - **Created a user dashboard with interactive graphs** for progress visualization and detailed history of past quizzes, integrating backend processing and data management using Python and SQL.
 - **Implemented extensive testing and user session management** (secure logout) to ensure application reliability and performance.
 - **Project Code**: [GitHub Repository](https://github.com/musarafhossain/QuizApp)
-- **Live Testing**: [Live Demo](https://quizraf.pythonanywhere.com/)
+- **Live Testing**: [Live Demo](https://quizraf.pythonanywhere.com/) or [Live Demo](http://musarafhossain.pythonanywhere.com/login)
 
 
 ### Library Management System (C)
