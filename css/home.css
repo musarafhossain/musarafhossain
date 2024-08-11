@@ -1,3 +1,7 @@
+section{
+    padding: 100px 10%;
+}
+
 .home{
     min-height: 100vh;
     height: 100%;
@@ -213,6 +217,9 @@ a.btn:nth-child(2)::before{
 
 /* Break Points */
 @media(max-width:991px){
+    section{
+        padding: 50px 5%;
+    }
     .home-content{
         margin-top: 5rem;
     }
