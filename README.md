@@ -1,78 +1,28 @@
-### Hi there 👋
-
-# 👋 Hi, I'm Musaraf Hossain
-Welcome to my GitHub repository! I'm a passionate software developer and a computer science student. This space showcases my projects, skills, and educational journey. Feel free to explore and get to know more about my work and interests.
-
-## 🚀 About Me
-
-- 📞 **Contact:** +91-8389989806
-- 📧 **Email:** myselfmusarafhossain786@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/musarafhossain](https://linkedin.com/in/musarafhossain)
-- 🐱 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-musarafhossain-blue?style=flat-square&logo=github)](https://github.com/musarafhossain)
-
-## 🔧 Technical Skills
-
-- **Languages:** ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-- **Tools and Technologies:** ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-- **Web Technologies:** 
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white) 
-  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=flat-square&logo=postgresql&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white) 
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-- **Interest:** ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white) Data Structures and Algorithms, Competitive Programming ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white) ![GFG](https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=flat-square&logo=geeksforgeeks&logoColor=white)
-- **Exposures:** ![Android Development](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
-- **Problem-Solving:** ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white) ![GFG](https://img.shields.io/badge/GeeksforGeeks-%23000000.svg?style=flat-square&logo=geeksforgeeks&logoColor=white)
-
-## 🛠️ Projects
-
-### Quiz Application Project
-I am thrilled to share my recent project—a fully functional Quiz Application built using HTML, CSS, JavaScript, Python, and SQL.
-
-- **Developed a comprehensive Quiz Application** using HTML, CSS, JavaScript, Python, and SQL, featuring secure user authentication (login, signup, forgot password, OTP verification), and customizable quizzes across multiple topics (Math, Science, History, Computer Science) with dynamic API-sourced questions.
-- **Created a user dashboard with interactive graphs** for progress visualization and detailed history of past quizzes, integrating backend processing and data management using Python and SQL.
-- **Implemented extensive testing and user session management** (secure logout) to ensure application reliability and performance.
-- **Project Code**: [GitHub Repository](https://github.com/musarafhossain/QuizApp)
-- **Live Testing**: [Live Demo](https://quizraf.pythonanywhere.com/)
+# 💫 About Me:
+Full Stack Developer || DevOps || AI/ML
 
 
-### Library Management System (C)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musaraf_33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/musarafhossain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/musaraf33) 
 
-- Developed a console-based application for implementing a Library Management System.
-- Features include management of Student Details, Book, and Author Information.
-- Exposures: C programming, Data Handling
-- [Project Link](https://github.com/musarafhossain/LibraryManagementSystem.git)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=musarafhossain&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=musarafhossain&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musarafhossain&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Logic Circuit Visualizer
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=musarafhossain&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- Created a comprehensive Logic Circuit Visualizer using HTML, CSS, and JavaScript.
-- Implemented diverse logic gates and circuits showcasing proficiency in web development and logical design.
-- [Source Code](https://github.com/musarafhossain/LogicCircuitVisualizer.git)
-- [Live Demo](https://musarafhossain.github.io/LogicCircuitVisualizer/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🎓 Certifications
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=musarafhossain&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### Web Development using Python on Django Framework
+---
+[![](https://visitcount.itsvg.in/api?id=musarafhossain&icon=0&color=1)](https://visitcount.itsvg.in)
 
-- Completed a comprehensive course from Mysirg Education Services Pvt Ltd in December 2023.
-- [Credential Link](https://premium.mysirg.com/learn/certificate/7484937-139195)
-
-Feel free to reach out
-
-<!--
-**musarafhossain/musarafhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abumusaraf) 
