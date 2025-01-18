@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Full Stack Developer || DevOps || AI/ML |
+Full Stack Developer || DevOps || AI/ML
 
 
 ## 🌐 Socials:
