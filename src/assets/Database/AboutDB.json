@@ -1,0 +1,10 @@
+{
+  "name": "Musaraf Hossain",
+  "degree": ["Software Engineer", "Web Developer", "MERN Stack Developer"],
+  "about_description": " Hi, I'm a Web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, JavaScript, Bootstrap, React JS, Tailwind CSS, Node JS, Express JS and MongoDB ",
+  "age": "06/09/2005",
+  "email": "myselfmusarafhossain786@gmail.com",
+  "phone": "+91 8389989806",
+  "place": "Coochbehar, West Bengal, India",
+  "profile_pic": "../images/about/my-pic.jpg"
+}

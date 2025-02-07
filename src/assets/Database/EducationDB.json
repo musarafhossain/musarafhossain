@@ -1,0 +1,20 @@
+[
+  {
+    "institution_pic": "../images/about/education/cbc.png",
+    "institute_degree": " BSc in Computer Science (4 Year UG H.)",
+    "institute_name": "Coochbehar College  | CBPBU",
+    "passing_year": "2023-2027 | Pursuing"
+  },
+  {
+    "institution_pic": "../images/about/education/mvv.png",
+    "institute_degree": " Higher Secondary",
+    "institute_name": "Mathabhanga Vivekananada Vidyamandir | WBCHSE",
+    "passing_year": "2023 | Completed"
+  },
+  {
+    "institution_pic": "../images/about/education/ndhs.png",
+    "institute_degree": " Secondary",
+    "institute_name": "Nagar Dakaliganj High School | WBBSE",
+    "passing_year": "2021 | Completed"
+  }
+]

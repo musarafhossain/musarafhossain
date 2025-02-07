@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "project_name": "Library Management System",
+    "project_image": "images/projects/library_management_system.png",
+    "live_button": "https://github.com/musarafhossain/LibraryManagementSystem",
+    "github": "https://github.com/musarafhossain/LibraryManagementSystem",
+    "project_info": "Develop a console base application for implementing Library Management System Design the full application in pure C language. Implementing features including management of User Details, Book and Author Information."
+  },
+  {
+    "id": 2,
+    "project_name": "Logic Circuit Visualizer",
+    "project_image": "images/projects/logic_circuit_visualizer.png",
+    "live_button": "https://musarafhossain.github.io/LogicCircuitVisualizer/",
+    "github": "https://github.com/musarafhossain/LogicCircuitVisualizer",
+    "project_info": "Created a comprehensive Logic Circuit Visualizer utilizing HTML, CSS, and JavaScript, featuring a user-friendly interface with input buttons and output LEDs. Implemented diverse logic gates and circuits, including AND, OR, NOT, NOR, NAND, XOR, XNOR, ADDER, and SUBTRACTOR, showcasing proficiency in web development and logical design. Exposures: HTML, CSS, JavaScript, SVG"
+  },
+  {
+    "id": 3,
+    "project_name": "Quiz App",
+    "project_image": "images/projects/quiz_app.png",
+    "live_button": "https://quizraf.pythonanywhere.com",
+    "github": "https://github.com/musarafhossain/QuizApp",
+    "project_info": "Developed a comprehensive quiz app with login/signup, OTP verification, dynamic question fetching, and real-time feedback. Features include a user dashboard, quiz timer, detailed history, and profile management. Built with HTML, CSS, JavaScript, Flask, and SQLAlchemy. Check it out"
+  },
+  {
+    "id": 4,
+    "project_name": "Face Filter Pro",
+    "project_image": "images/projects/face_filter_pro.png",
+    "live_button": "https://musarafhossain.github.io/FaceFilterPro/",
+    "github": "https://github.com/musarafhossain/FaceFilterPro",
+    "project_info": "This is my first AI based project. Here we can filter images of a particular face among multiple multi faces images. You should definitely try this. Result is mind blowing."
+  },
+  {
+    "id": 5,
+    "project_name": "Attendance Application",
+    "project_image": "images/projects/attendance-app.png",
+    "live_button": "#",
+    "github": "#",
+    "project_info": "Created an Attendance taking website for my college. Features: QR code-based attendance, faculty and admin logins, department-wise attendance, student and data management, faculty dashboards for attendance analytics, monthly attendance views, and more"
+  },
+  {
+    "id": 6,
+    "project_name": "College Departmental Website",
+    "project_image": "images/projects/clg-dpt-app.png",
+    "live_button": "https://cob-cs-dpt.vercel.app/",
+    "github": "#",
+    "project_info": "Created a Departmental website for my college computer science department."
+  },
+  {
+    "id": 7,
+    "project_name": "Milmapure",
+    "project_image": "images/projects/milmapure.png",
+    "live_button": "https://milmapure.com/",
+    "github": "#",
+    "project_info": "Created an Ecommerce website for a client."
+  },
+  {
+    "id": 8,
+    "project_name": "Protijogi Quiz",
+    "project_image": "images/projects/protijogiquiz.png",
+    "live_button": "https://protijogiquiz.com/",
+    "github": "#",
+    "project_info": "Created an Ecommerce website for a client."
+  },
+  {
+    "id": 9,
+    "project_name": "Attend AI",
+    "project_image": "images/projects/attend-ai.png",
+    "live_button": "#",
+    "github": "#",
+    "project_info": "This is an face recognition based attendace system project."
+  },
+  {
+    "id": 10,
+    "project_name": "MediHub",
+    "project_image": "images/projects/medihub.png",
+    "live_button": "#",
+    "github": "https://github.com/musarafhossain/MediHub",
+    "project_info": "This is a clinic management system project."
+  }
+]
