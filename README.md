@@ -23,7 +23,6 @@ Full Stack Developer || DevOps || AI/ML
 
 [![](https://visitcount.itsvg.in/api?id=musarafhossain&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![snake animation](https://github.com/musarafhossain/musarafhossain/blob/output/github-contribution-grid-snake2.svg)
 ![Snake animation](/github-user-contribution.svg)
 
 ---
